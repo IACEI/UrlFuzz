@@ -1,0 +1,8 @@
+about
+new
+found
+home
+index
+etc
+admin
+settings
